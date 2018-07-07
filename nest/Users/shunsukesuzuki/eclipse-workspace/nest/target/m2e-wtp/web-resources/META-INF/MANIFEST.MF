@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: nest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shunsukesuzuki
+Implementation-Vendor-Id: com.nest
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/nest
+Created-By: Maven Integration for Eclipse
+
